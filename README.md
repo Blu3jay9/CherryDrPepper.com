@@ -90,6 +90,3 @@ jackmonty753 - Hoster of GBABandicoot, edited version of emulator above
 Me (SeanS) - For making this
 -
 You - For playing it
--
-
-Also, you don´t have to give credit if you iframe or embed this for your own website. I don´t care. 
