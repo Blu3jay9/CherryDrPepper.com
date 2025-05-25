@@ -10,6 +10,11 @@ CherryDrPepper is a personal preservation project focused on hosting and curatin
 
 This project is meant to be a digital arcade full of memories, where users can explore forgotten gems and childhood favorites.
 
+## 🌐 Visit the Site
+
+[→ Click here to explore CherryDrPepper!](https://blu3jay9.github.io/CherryDrPepper.com/)
+*A cozy archive full of nostalgic games and memories (=^･^=)~*
+
 ---
 
 ## 🎮 Contents
