@@ -4,7 +4,7 @@ Welcome to CherryDrPepper!
 
 A cozy and nostalgic game archive for everyone ♡
 
-# ✨ About
+## ✨ About
 
 CherryDrPepper is a personal preservation project focused on hosting and curating various types of classic and nostalgic games. From old Minecraft builds to Flash and emulated retro titles, the goal is to make them easy to access and enjoy, just like the good old days :3
 
@@ -12,7 +12,7 @@ This project is meant to be a digital arcade full of memories, where users can e
 
 ---
 
-# 🎮 Contents
+## 🎮 Contents
 
 - 🧱 Old Minecraft Versions (1.5.2; 1.8, etc...)
 - 🌐 Flash Games (archived & playable!)
@@ -21,7 +21,7 @@ This project is meant to be a digital arcade full of memories, where users can e
 
 ---
 
-# 📦 Structure
+## 📦 Structure
 
 The project is divided into folders by category. Each one contains its own launcher or emulator where needed.
 
@@ -29,7 +29,7 @@ Some games may include custom launch scripts (Such as Ruffle for flash emulation
 
 ---
 
-# 🔧 Technologies Used
+## 🔧 Technologies Used
 
 - HTML5 + CSS + JS for browser-based loaders
 - Ruffle for Flash emulation
@@ -37,26 +37,26 @@ Some games may include custom launch scripts (Such as Ruffle for flash emulation
 
 ---
 
-💌 Future Plans
+## 💌 Future Plans
 
 - Add SNES, N64, NDS and PS1 games support
 
 ---
 
-# 📸 Screenshots
+## 📸 Screenshots
 
 Coming Soon!
 
 ---
 
-# 🤝 Contributions
+## 🤝 Contributions
 
 - [Blu3jay9](https://github.com/Blu3jay9) - Owner, Curator, Main Designer
 - [ash64](https://github.com/ashleytarifa) - Design and Coding Help
 
 ---
 
-# 📜 License
+## 📜 License
 
 This project is for educational and archival purposes only. All games belong to their respective creators. No commercial use is intended.
 
