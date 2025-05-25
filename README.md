@@ -57,7 +57,7 @@ Coming Soon!
 ## 🤝 Contributions
 
 - [Blu3jay9](https://github.com/Blu3jay9) - Owner, Curator, Main Designer
-- [ash64](https://github.com/ashleytarifa) - Design and Coding Help
+- [ash64](https://github.com/ashleytarifa) - Co-Developer, Design and Coding
 
 ---
 
