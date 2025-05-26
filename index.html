@@ -1,36 +1,92 @@
 <!DOCTYPE html>
+<html lang="en">
 
 <head>
-    <body>
-       <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Welcome to VA-11 HALL-A</title>
-        <style>
-        @font-face {font-family: Bartending; src: url(Fonts/CyberpunkWaifus.woff);}
-        text {font-family: Bartending}
-        text {color:#bdbdbd;}
-        body {background: black;}
-        body {margin: 0;width: 100vw;height: 100vh;}
-        body {background-image: url("Gifs/Glitch_city_vibrant.gif"); background-repeat: no-repeat; background-size: 1500 531px; background-position: center;}
-        a:link {color:#bdbdbd;}
-        a:visited {color:#aea7d1;}
-        a:hover {color:#FFFFFF;}
-        a:link{text-decoration: none;}
-        </style>
-    <header>
-            <text>
-             <!--Top of the page headers-->
-                <center>
-                <a title="Where do you think?" href="index.html"><u>Home</u></a> |
-                <a title="Flash games, HTML games, and more!" href="Games.html">Game Archive</a> |
-                <a title="Upcoming Website updates, and FAQ" href="Dev_blog.html">Dev Blog</a> |
-                <a title="Video Archive." href="Video.html">Video</a> |
-                <a title="Music I listen to." href="Music.html">Music</a> |
-                <a title="Special Thanks to:" href="README.md">Credits</a> 
-                </center>
-            </text>
-    </header>
-        <audio autoplay>  <source src="Auzio/1-21 A. Rene.wav" type="audio/wav"> </audio>
-    </body>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Welcome to VA-11 HALL-A</title>
+    <link rel="stylesheet" type="text/css" href="main_styles.css" media="screen" />
+    <link rel="icon" href="assets/favicon.ico" type="image/x-icon">
+</head>
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Welcome to VA-11 HALL-A</title>
+
 </head>
 
-<!DOCTYPE html>
+<body class="mainmenu">
+    <div id="welcome-screen">
+        <h1>Welcome to CherryDrPepper!</h1>
+        <p>A cozy and nostalgic game archive for everyone ♡</p>
+        <p>Click Enter to explore our game vault!</p>
+        <p>(This site features background audio)</p>
+        <button id="enter-button">Enter</button>
+    </div>
+
+    <header class="main-header">
+        <a title="Where do you think?" href="index.html"><u>Home</u></a> |
+        <a title="Flash games, HTML games, and more!" href="Games.html">Game Archive</a> |
+        <a title="Upcoming Website updates, and FAQ" href="Dev_blog.html">Dev Blog</a> |
+        <a title="Video Archive." href="Video.html">Video</a> |
+        <a title="Music I listen to." href="Music.html">Music</a> |
+        <a title="Special Thanks to:" href="README.md">Credits</a>
+    </header>
+
+    <audio id="bg-music" loop>
+        <source src="assets/audio/main_bgm.wav" type="audio/wav">
+    </audio>
+
+    <div class="music-control">
+        <button id="musicToggle" title="Toggle music">
+            <span id="musicIcon">♫</span>
+            <span id="musicStatus">Play</span>
+        </button>
+    </div>
+
+    <footer>
+        <p>@ 2025 The CherryDrPepper Project</p>
+        <p>This website is open-source, you can check its contents <a href="https://github.com/Blu3jay9/CherryDrPepper.com" target="_blank">here</a></p>
+    </footer>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            const welcomeScreen = document.getElementById('welcome-screen');
+            const enterButton = document.getElementById('enter-button');
+            const bgMusic = document.getElementById('bg-music');
+            const musicToggle = document.getElementById('musicToggle');
+            const musicIcon = document.getElementById('musicIcon');
+            const musicStatus = document.getElementById('musicStatus');
+
+            bgMusic.volume = 0.3;
+
+            musicToggle.addEventListener('click', function () {
+                if (bgMusic.paused) {
+                    bgMusic.play();
+                    musicIcon.textContent = '♫';
+                    musicStatus.textContent = 'Pause';
+                } else {
+                    bgMusic.pause();
+                    musicIcon.textContent = '♫';
+                    musicStatus.textContent = 'Play';
+                }
+            });
+
+            // Welcome screen button
+            enterButton.addEventListener('click', function () {
+                welcomeScreen.classList.add('hidden');
+                bgMusic.play().catch(e => console.log("Audio play failed:", e));
+                musicStatus.textContent = 'Pause';
+            });
+
+            bgMusic.addEventListener('ended', function () {
+                musicStatus.textContent = 'Play';
+            });
+        });
+    </script>
+</body>
+
+</html>
