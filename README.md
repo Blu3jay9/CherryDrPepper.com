@@ -44,7 +44,8 @@ Some games may include custom launch scripts (Such as Ruffle for flash emulation
 
 ## 💌 Future Plans
 
-- Add SNES, N64, NDS and PS1 games support
+- Add SNES, N64. 
+- Potentially NDS and PS1 games support
 
 ---
 
@@ -56,8 +57,8 @@ Coming Soon!
 
 ## 🤝 Contributions
 
-- [Blu3jay9](https://github.com/Blu3jay9) - Owner, Curator, Main Designer
-- [ash64](https://github.com/ashleytarifa) - Co-Developer, Design and Coding
+- [Blu3jay9](https://github.com/Blu3jay9) - Owner, Content Curator, Lead Designer, Lead Developer.
+- [ash64](https://github.com/ashleytarifa) - Co-Developer, Co-Designer, Lead Formatter.
 
 ---
 
