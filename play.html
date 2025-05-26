@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>CherryDrPepper Player</title>
+  <script src="https://unpkg.com/@ruffle-rs/ruffle"></script>
+      <link rel="stylesheet" type="text/css" href="main_styles.css" media="screen" />
+    <link rel="icon" href="assets/favicon.ico" type="image/x-icon">
+</head>
+<body>
+  <div id="game-container"></div>
+
+  <script>
+    const params = new URLSearchParams(window.location.search);
+    const game = params.get("game");
+
+    if (game) {
+      const swf = document.createElement("embed");
+      swf.src = `games/${game}`;
+      swf.width = "800";
+      swf.height = "600";
+      swf.type = "application/x-shockwave-flash";
+      document.getElementById("game-container").appendChild(swf);
+    } else {
+      document.body.innerHTML = "<p>No game selected yet</p>";
+    }
+  </script>
+</body>
+</html>
