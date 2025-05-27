@@ -1,0 +1,407 @@
+------------
+------------
+The CherryDrPepper Archival Project Credits
+------------
+------------
+
+
+
+Created by:
+        [Blu3jay9](https://github.com/Blu3jay9)
+
+
+
+Design, Programming and graphics:
+        [Blu3jay9](https://github.com/Blu3jay9)
+        [ash64](https://github.com/ashleytarifa)
+
+
+
+Music and Sounds:
+------------
+Va-11 Hall-a
+------------
+        [Garoad (Micheal Kelly)](https://garoadmusic.com/)
+        [Sukeban Games](https://sukeban.moe/)
+
+------------
+Undertale/Deltarune
+------------
+        Toby Fox
+        Temmie Chang
+
+------------
+Minecraft
+------------
+        C418 (Daniel Rosenfeld)
+
+
+
+Used Artwork:
+------------
+Undertale/Deltarune
+------------
+        [Toby Fox](https://toby.fangamer.com/)
+        [Temmie Chang](https://tuyoki.itch.io/)
+        [Merrigo](https://www.tumblr.com/merrigo)
+
+
+
+Technologies used:
+[Ruffle](https://ruffle.rs/)
+
+------------
+Emulation
+------------
+[Taisel's IodlineGBA](https://github.com/taisel/IodineGBA)
+[jackmonty753's GBA-Bandicoot](https://github.com/jackmonty753/GBA-Bandicoot)
+[Ben Firshman's JS-NES](https://github.com/bfirsh/jsnes)
+
+
+
+Eaglercraft HTML Project:
+        Mojang
+        The Eaglercraft Team
+        [Blu3jay9](https://github.com/Blu3jay9)
+
+
+
+Flash Games:
+------------
+Alien Hominid
+------------
+
+
+------------
+Bloxorz
+------------
+
+
+------------
+Bloons' Tower Defense
+------------
+
+
+------------
+Commando
+------------
+
+
+------------
+Cubefield
+------------
+
+
+------------
+Dad n' Me
+------------
+
+
+------------
+Donkey Kong Flash
+------------
+
+
+------------
+The Duck Life Series
+------------
+
+
+------------
+Electricman
+------------
+
+
+------------
+Stealing the Diamond
+------------
+
+
+------------
+Fancy Pants Adventures
+------------
+
+
+------------
+Hobo Series
+------------
+
+
+------------
+Learn to Fly
+------------
+
+
+------------
+The "Shark" Series
+------------
+
+
+------------
+This is the Only Level
+------------
+
+
+------------
+Papa Louie Series
+------------
+
+
+------------
+Pong Flash
+------------
+
+
+------------
+Portal Flash
+------------
+
+
+------------
+Super Mario 63
+------------
+
+
+------------
+Mario Combat
+------------
+
+
+------------
+Meat Boy 
+------------
+
+
+------------
+Mini Putt
+------------
+
+
+------------
+My Friend Pedro
+------------
+
+
+------------
+Riddle School Series
+------------
+
+
+------------
+Run Series
+------------
+
+
+------------
+The Impossible Quiz
+------------
+
+
+------------
+The World's Hardest Games 
+------------
+
+
+------------
+Toss The Turtle
+------------
+
+
+
+HTML and Javascript based games:
+------------
+2048
+------------
+
+
+------------
+Basketball Stars 
+------------
+
+
+------------
+Cookie Clicker
+------------
+
+
+------------
+Five Nights at Winston's
+------------
+
+
+------------
+FnaF Web remakes
+------------
+
+
+------------
+Cut the Rope
+------------
+
+
+------------
+Google Dinosaur
+------------
+
+
+------------
+Happy Wheels Web remake
+------------
+
+
+------------
+MotoX3M series
+------------
+
+
+------------
+Retro Bowl
+------------
+
+
+------------
+Slope
+------------
+
+
+------------
+Super Mario 64
+------------
+
+
+------------
+Twitch Tetris
+------------
+
+
+
+Emulated Games:
+------------
+Contra [NES]
+------------
+
+
+------------
+Duck Tales [NES]
+------------
+
+
+------------
+Mega Man II [NES]
+------------
+
+
+------------
+Super Mario Bros. [NES]
+------------
+
+
+------------
+Super Mario Bros. 2 US [NES]
+------------
+
+
+------------
+Super Mario Bros. 3 [NES]
+------------
+
+
+------------
+Donkey Kong Country [GBA]
+------------
+
+
+------------
+DOOM [GBA]
+------------
+
+
+------------
+Grand Theft Auto Advance [GBA]
+------------
+
+
+------------
+NBA Jam 2002 [GBA]
+------------
+
+
+------------
+Pokémon Emerald [GBA]
+------------
+
+
+------------
+Super Mario Advance 2 [GBA]
+------------
+
+
+\\OLD CREDITS BECAUSE I'M LOGGING OFF FOR NOW
+
+
+DXinteractive - Creator of Bloxorz & Electricman 2  - Website: https://damienclarke.me/
+-
+Felix Wiesner - Creator of Miami Shark, New York Shark and Sydney Shark
+-
+Paul Neave - Porter of Tetris, Pacman, Asteroids and more - Website: https://neave.com
+-
+Tom Fulp / Dan Paladin - Creator(s) of Dad n' Me & Alien Hominid - Website: https://newgrounds.com
+- 
+Wolf Games - Creators of Gunblood & Apple Shooter
+-
+We Create Stuff - Creators of Portal: The Flash Version
+-
+Stabyouself - Creators of Mari0 - Website: https://stabyourself.net
+-
+Bored In School HTML - Orginal hosters of a HTML version of Mari0 - Github: https://github.com/PiSaucer/boredhtml
+-
+Runouw - Creator of Super Mario 63
+-
+IMockery, Pesto Force and the Pox Box (Team Bobbo) - Creators of Abobbos big Adventure
+-
+Dennis-Gid - Creator of Ultimate Flash Sonic
+-
+Miniclip - Creator(s?) of Commando
+-
+Team Meat - Creators of Meat Boy
+-
+Lousi - Creator of Age of War
+-
+Puffballs United - Creator of Henry Stickmin
+-
+Xgen Studios - Creator of Defend Your Castle
+-
+JohnoChrome (FKA JohnBro) - Creator of Riddle School
+-
+D-SuN - Creator(s?) of Mario Combat
+-
+Splapp-Me-Do - Creator of the Impossible Quiz
+-
+Y8.com - Creator / Hosters of Slope (note: this version has ADs, which sucks.) 
+-
+Brad Borne - Creator of Fancy Pants
+-
+Max Abernethy - Creator of Cubefield
+-
+Taito Corporation - Insperation for Bubble Shooter (Creator of Flash Version n/a)
+-
+Nintendo - Creators of Super Mario 64 (Code from 28klotlucas2, though he is not the original creator of the port.)
+-
+Google - Creators of the Dinosaur game (Wayou made the conversion)
+-
+iD Software - Creators of Wolfenstein (Port by https://github.com/loadx/html5-wolfenstein3D) 
+-
+Stayko (https://github.com/stayko) - Creator of JS Blackjack used
+-
+Atari - Creator(s) of Pong, Centipede, and more
+-
+Shift-Refresh Consulting - Creator(s?) of Flash version of Pong
+-
+gamedesign.jp - Creator(s?) of Flash Version of Hanafuda and the How to Guide 
+-
+3kh0 - Reverse Engineer of Minecraft Classic, Retro Bowl and Basket Ball Stars
+-
+New Star Games - Creator(s?) of Retro Bowl
+-
+Gabriele Cirulli - Creator of 2048 - Github: https://github.com/gabrielecirulli
+-
